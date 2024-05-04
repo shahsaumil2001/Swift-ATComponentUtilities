@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'ATComponentUtilities'  
-    s.version          = '0.0.2'  
+    s.version          = '0.0.3'  
     s.summary          = 'Custom pod creation for view utilities' 
     s.description      = <<-DESC
     Custom pod creation for view utilities.
