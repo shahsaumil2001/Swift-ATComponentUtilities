@@ -1,5 +1,3 @@
-# Swift-ATComponentUtilities
-
 # ATComponentUtilities
 
 [![CI Status](https://img.shields.io/travis/shahsaumil20011991@gmail.com/ATComponentUtilities.svg?style=flat)](https://travis-ci.org/shahsaumil20011991@gmail.com/ATComponentUtilities)
