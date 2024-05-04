@@ -1,9 +1,9 @@
 Pod::Spec.new do |s|
     s.name             = 'ATComponentUtilities'  
-    s.version          = '0.0.1'  
+    s.version          = '0.0.2'  
     s.summary          = 'Custom pod creation for view utilities' 
     s.description      = <<-DESC
-    TODO: Add long description of the pod here.
+    Custom pod creation for view utilities.
                            DESC
     
     s.homepage         = 'https://github.com/shahsaumil2001/Swift-ATComponentUtilities' 
