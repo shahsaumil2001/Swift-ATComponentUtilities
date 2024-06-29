@@ -5,6 +5,9 @@
 [![License](https://img.shields.io/cocoapods/l/ATComponentUtilities.svg?style=flat)](https://cocoapods.org/pods/ATComponentUtilities)
 [![Platform](https://img.shields.io/cocoapods/p/ATComponentUtilities.svg?style=flat)](https://cocoapods.org/pods/ATComponentUtilities)
 
+## Functionality
+
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
@@ -127,7 +130,6 @@ pod 'ATComponentUtilities'
          }
      }
 
-https://github.com/shahsaumil2001/Swift-ATComponentUtilities/assets/56787966/7abf82b6-b84a-4817-93f5-663fe1a3dc8a
 
 ## License
 
