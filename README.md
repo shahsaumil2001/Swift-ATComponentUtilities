@@ -1,8 +1,6 @@
 
-https://github.com/shahsaumil2001/Swift-ATComponentUtilities/assets/56787966/67256a9d-eed4-4d49-8e83-17cf4dd12dc5
 # ATComponentUtilities
 
-[![CI Status](https://img.shields.io/travis/shahsaumil20011991@gmail.com/ATComponentUtilities.svg?style=flat)](https://travis-ci.org/shahsaumil20011991@gmail.com/ATComponentUtilities)
 [![Version](https://img.shields.io/cocoapods/v/ATComponentUtilities.svg?style=flat)](https://cocoapods.org/pods/ATComponentUtilities)
 [![License](https://img.shields.io/cocoapods/l/ATComponentUtilities.svg?style=flat)](https://cocoapods.org/pods/ATComponentUtilities)
 [![Platform](https://img.shields.io/cocoapods/p/ATComponentUtilities.svg?style=flat)](https://cocoapods.org/pods/ATComponentUtilities)
